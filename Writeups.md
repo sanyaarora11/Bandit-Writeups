@@ -72,4 +72,5 @@ The password for next level is in a human-readable file in inhere directory. I u
  username bandit5
  <br>
  password lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
- 
+
+ ![Screenshot (18)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/ba6f9371-8128-4d89-8da2-49817a0657d9)
