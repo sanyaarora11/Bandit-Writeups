@@ -36,4 +36,9 @@ The password for the next level is stored in a file called spaces in this filena
 <br>
 When I ran the <b>cat</b> command with the filename in double quotes it printed the output which is the password for the next level.
 
+![Screenshot (10)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/5232d220-b19a-4703-902c-9acb2151b3a8)
 
+<br>
+username bandit3
+<br>
+password aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
