@@ -30,8 +30,9 @@ username bandit2
 <br>
 password rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
-# Level 3
-## Level 2 -> Level 3
+
+## Level 3
+### Level 2 -> Level 3
 The password for the next level is stored in a file called spaces in this filename. After running <b>ls</b> command, the output gave the name of the file <b>spaces in this filename</b> . To handle spaces in file names we can use forward slash(\) or double quotes ("") with the file name.
 <br>
 When I ran the <b>cat</b> command with the filename in double quotes it printed the output which is the password for the next level.
@@ -42,3 +43,9 @@ When I ran the <b>cat</b> command with the filename in double quotes it printed 
 username bandit3
 <br>
 password aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+
+
+## Level 4
+### Level 3 -> Level 4
+While logged in the level 3 I ran the <b>ls</b> command as it is writtent that the password is in a hidden file in the <b>inhere</b> directory. To move into the inhere folder I used <b>cd</b> command. Then I ran the <b>ls -al</b> command to see all the files. <b>-a</b> command is used to see files starting with dot , i.e. , hidden files. The output gave a hidden file <b>.hidden</b> and after running the <b>cat .hidden</b> command the output gave a string which is the password for the next level. Using ssh command I logged in to the next level.
+
