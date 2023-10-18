@@ -29,7 +29,9 @@ In the next level it is mentioned that the password is stored in a file called <
        to prefix wildcards or dubious path names with either `./' or to
        use absolute path names starting with '/'.</b> , the output gave a string which is the password for the next level.
 
-       
+![Screenshot (9)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/26df7c7d-c4ba-4224-b3cf-dab0a37ce7e8)
+
+       <br>username bandit2 <br> password rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
        
 
