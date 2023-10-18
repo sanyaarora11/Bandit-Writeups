@@ -27,7 +27,9 @@ In the next level it is mentioned that the password is stored in a file called <
        wildcard patterns expanded by the calling shell are not
        mistakenly treated as expression arguments, it is generally safer
        to prefix wildcards or dubious path names with either `./' or to
-       use absolute path names starting with '/'.</b> , the output gave a string which is password for the next level.
+       use absolute path names starting with '/'.</b> , the output gave a string which is the password for the next level.
+
+       
 
        
 
