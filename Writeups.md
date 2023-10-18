@@ -66,4 +66,10 @@ The password for next level is in a human-readable file in inhere directory. I u
  <br>
  Executing the command <b>cat ./-file</b> , the output gave a string which is the password for the next level. 
 
- ![Screenshot (17)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/e60e661e-0466-4d29-8dac-c75715da94de)
+ ![Screenshot (16)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/1d2d9cac-1023-4108-948a-fcb530eff64c)
+
+ <br>
+ username bandit5
+ <br>
+ password lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+ 
