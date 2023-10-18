@@ -18,6 +18,7 @@ password NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 ![Screenshot (6)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/91c07183-7f2c-4cb1-bf27-292dd4898821)
 
 <br>
+
 ## Level 2
 ### Level 1 -> Level 2
 In the next level it is mentioned that the password is stored in a file called <b>-</b> located in home directory. After logging in level 1 I ran the <b>ls</b> command and the output showed me <b>-</b> file. However it did not directly worked with <b>cat</b> command as in previous case. So, using the information under <b>find</b> command in the manual page :
