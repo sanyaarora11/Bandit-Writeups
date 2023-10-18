@@ -61,7 +61,7 @@ password 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 
 
 ## Level 5
-###Level 4 -> Level 5
+### Level 4 -> Level 5
 The password for next level is in a human-readable file in inhere directory. I used the <b>ls</b> command and then <b>cd</b> command to get inside inhere folder. I used <b>ls -a</b> command , it did not work. However, after going through playlist and manual pages, using <b>file ./*</b> command cleary the human-readable file was seen.
 
 
