@@ -31,7 +31,10 @@ In the next level it is mentioned that the password is stored in a file called <
 
 ![Screenshot (9)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/26df7c7d-c4ba-4224-b3cf-dab0a37ce7e8)
 
-       <br>username bandit2 <br> password rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+       <br>
+       username bandit2 
+       <br>
+       password rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
        
 
