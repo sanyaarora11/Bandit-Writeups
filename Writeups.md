@@ -56,4 +56,4 @@ username bandit4
 <br>
 password 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 
-
+![Screenshot (15)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/6359d724-19a0-4df5-9b58-69c54c6c496d)
