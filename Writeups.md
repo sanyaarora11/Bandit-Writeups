@@ -48,12 +48,13 @@ password aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 ## Level 4
 ### Level 3 -> Level 4
 While logged in the level 3 I ran the <b>ls</b> command as it is writtent that the password is in a hidden file in the <b>inhere</b> directory. To move into the inhere folder I used <b>cd</b> command. Then I ran the <b>ls -al</b> command to see all the files. <b>-a</b> command is used to see files starting with dot , i.e. , hidden files. The output gave a hidden file <b>.hidden</b> and after running the <b>cat .hidden</b> command the output gave a string which is the password for the next level. Using ssh command I logged in to the next level.
-<br>
+
 ![Screenshot (13)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/421070e3-d787-4d47-bc69-8d9795602c19)
 
 <br>
 username bandit4
 <br>
 password 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
-<br>
+
+
 ![Screenshot (15)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/6359d724-19a0-4df5-9b58-69c54c6c496d)
