@@ -30,5 +30,10 @@ username bandit2
 <br>
 password rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
-       
+# Level 3
+## Level 2 -> Level 3
+The password for the next level is stored in a file called spaces in this filename. After running <b>ls</b> command, the output gave the name of the file <b>spaces in this filename</b> . To handle spaces in file names we can use forward slash(\) or double quotes ("") with the file name.
+<br>
+When I ran the <b>cat</b> command with the filename in double quotes it printed the output which is the password for the next level.
+
 
