@@ -92,3 +92,7 @@ With the help of these and some help from walkthrough playlist I ran <b>find</b>
 username bandit6
 <br>
 password P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
+
+## Level 7
+### Level 6 -> Level 7
+I used the <b>ls</b> command but it did not give any output. Then I used <b> man find</b> command and under that i searched for <b>/user</b> , <b>/group</b> and <b>/size</b> and with help of these I tried to write a command using <b>find</b>. 
