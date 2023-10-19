@@ -140,3 +140,7 @@ The command produced the output which is the password for the next level.
 username bandit9
 <br>
 password EN632PlfYiZbn3PhVK3XOGSlNInNE00t
+
+## Level 10
+### Level 9 -> Level 10
+The password for the next level is stored in the file <b>data.txt</b> in one of the few human-readable strings which means the file contains both strings which is readable by humans and binary data which is not readable by humans. So, looking under <b>strings</b> section in the manual and with some help of walkthrough playlist , I ran a command to see all the strings that started with <b>"="</b> sign. According to the pattern followed ine of them is the password for the next level.
