@@ -101,3 +101,9 @@ I used the <b>ls</b> command but it did not give any output. Then I used <b> man
 
 To rectify it I took help from the walkthrough playlist and then used <b>2>/dev/null</b> to redirect the error messages to null so that they do not show on the standard output. The output is the name of the file. I read the file with help of <b>cat</b> command and the output gave the string which is the password for the next level.
 
+![Screenshot (31)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/3f54ea00-a4f2-4f1c-866e-3e05b5072aef)
+
+<br>
+username bandit7
+<br>
+password z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
