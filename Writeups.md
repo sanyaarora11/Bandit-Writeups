@@ -123,3 +123,7 @@ The output gave one line as output which had the password for the next level.
 username bandit8
 <br>
 password TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+
+## Level 9
+### Level 8 -> Level 9
+I ran the <b>ls</b> command and the name of the file appeared. Since, it is given that the password  is the only line of text that occurs only once, it is needed to remove the duplicates. I looked for <b>sort</b> and <b>uniq</b> commands in the manual page and use google to know how they are used. 
