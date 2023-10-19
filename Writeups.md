@@ -97,7 +97,7 @@ password P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 ### Level 6 -> Level 7
 I used the <b>ls</b> command but it did not give any output. Then I used <b> man find</b> command and under that i searched for <b>/user</b> , <b>/group</b> and <b>/size</b> and with help of these I tried to write a command using <b>find /</b>, as it is located somewhere in the server, so we need to find in the root directory. After running the command it did gave an output that had the name of the file in which contained the password but it also gave some error files.
 
-
+![Screenshot (30)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/19b7d913-9241-4ab0-b00a-7567ceaef2f9)
 
 To rectify it I took help from the walkthrough playlist and then used <b>2>/dev/null</b> to redirect the error messages to null so that they do not show on the standard output. The string produced on the output is the password for the next level.
 
