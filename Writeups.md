@@ -144,3 +144,11 @@ password EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 ## Level 10
 ### Level 9 -> Level 10
 The password for the next level is stored in the file <b>data.txt</b> in one of the few human-readable strings which means the file contains both strings which is readable by humans and binary data which is not readable by humans. So, looking under <b>strings</b> section in the manual and with some help of walkthrough playlist , I ran a command to see all the strings that started with <b>"="</b> sign. According to the pattern followed ine of them is the password for the next level.
+
+![Screenshot (39)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/8b3bcf32-428a-45f5-9549-3e46171fb225)
+![Screenshot (40)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/72a98e6e-3eca-43ca-a1f7-8b4fe8155d85)
+
+<br>
+username bandit10
+<br>
+password G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
