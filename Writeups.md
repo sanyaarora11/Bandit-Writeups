@@ -86,3 +86,9 @@ The password for next level is in a human-readable file in inhere directory. I u
 <br>
 With the help of these and some help from walkthrough playlist I ran <b>find</b> command and the output gave a file and using <b>cat</b> a string appeared which is the password for the next level. 
 
+![Screenshot (25)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/969b86f9-01ce-4b08-b5eb-848907a81bfb)
+
+<br>
+username bandit6
+<br>
+password P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
