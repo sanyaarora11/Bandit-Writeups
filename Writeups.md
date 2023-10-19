@@ -127,3 +127,9 @@ password TESKZC0XvTetK0S9xNwm25STk5iWrBvP
 ## Level 9
 ### Level 8 -> Level 9
 I ran the <b>ls</b> command and the name of the file appeared. Since, it is given that the password  is the only line of text that occurs only once, it is needed to remove the duplicates. I looked for <b>sort</b> and <b>uniq</b> commands in the manual page and use google to know how they are used. 
+
+![Screenshot (36)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/1b58c47c-b5f1-40e5-ba4e-44f63f02d34e)
+![Screenshot (37)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/76d7ceaa-7730-45e0-8b66-a5840d5d79bf)
+
+<br>
+The command produced the output which is the password for the next level.
