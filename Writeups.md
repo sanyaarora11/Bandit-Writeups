@@ -111,3 +111,8 @@ password z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 ## Level 8
 ### Level 7 -> Level 8
 I ran the <b>ls</b> command and it gave the name of a file which when I read using <b>cat</b> command produced a bunch of lines  and it looked like all of the lines had the same structure. It was a word followed by some spaces and then a possible password. Since, The hint was that the password is next to the word millionth I used <b>cat</b> command with another command <b>grep</b>. 
+
+![Screenshot (32)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/ec022fe7-b4ef-4239-89b5-e0b97026ade8)
+
+<br>
+The output gave one line as output which had the password for the next level.
