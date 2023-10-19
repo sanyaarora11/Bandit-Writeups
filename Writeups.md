@@ -79,12 +79,10 @@ The password for next level is in a human-readable file in inhere directory. I u
  ### Level 5 -> Level 6
  I ran the <b>ls</b> command to check for the directory. Then I ran the <b>cd</b> command to go into <b>inhere</b> directory and then again ran the <b>ls</b> command to see all the files. In order to find out the exact file with the properties given I used the manual pages for the <b>find</b> command. 
 
- ![Screenshot (20)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/13a1ccca-bee8-433f-84ec-6fcf5637fc5f)
-![Screenshot (21)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/8d3c620c-eaca-4ae3-9d28-52253c17b930)
-![Screenshot (22)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/b61435bc-0740-463b-a096-e7ad121ed305)
+
 
 <br>
-With the help of these and some help from walkthrough playlist I ran <b>find</b> command and the output gave a file and using <b>cat</b> a string appeared which is the password for the next level. 
+With the help of these and some help from walkthrough playlist I ran <b>find</b> command and the output gave a file and using <b>cat</b> command a string appeared which is the password for the next level. 
 
 ![Screenshot (25)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/969b86f9-01ce-4b08-b5eb-848907a81bfb)
 
