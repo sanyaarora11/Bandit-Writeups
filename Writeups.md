@@ -116,3 +116,10 @@ I ran the <b>ls</b> command and it gave the name of a file which when I read usi
 
 <br>
 The output gave one line as output which had the password for the next level.
+
+![Screenshot (33)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/0c18c8a4-1f73-4871-a95f-ed58c28f4eb6)
+
+<br>
+username bandit8
+<br>
+password TESKZC0XvTetK0S9xNwm25STk5iWrBvP
