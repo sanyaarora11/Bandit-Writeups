@@ -133,3 +133,10 @@ I ran the <b>ls</b> command and the name of the file appeared. Since, it is give
 
 <br>
 The command produced the output which is the password for the next level.
+
+![Screenshot (38)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/90a194b5-4bd3-4b59-a17c-7167c7375f2c)
+
+<br>
+username bandit9
+<br>
+password EN632PlfYiZbn3PhVK3XOGSlNInNE00t
