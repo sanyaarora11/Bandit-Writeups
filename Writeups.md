@@ -156,3 +156,10 @@ password G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
 ## Level 11
 ### Level 10 -> level 11
 The password for the next level is stored in the file data.txt, which contains base64 encoded data, so I checked for the <b>base64</b> in the manual page and using <b>--decode</b> command , the output gave the password for the next level. 
+
+![Screenshot (41)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/8dcaaf16-b7d4-473b-9c26-a1770f8a9f1c)
+
+<br>
+username bandit11
+<br>
+password 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
