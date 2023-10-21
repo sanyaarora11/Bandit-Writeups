@@ -163,3 +163,7 @@ The password for the next level is stored in the file data.txt, which contains b
 username bandit11
 <br>
 password 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
+
+## Level 12
+### Level 11 -> Level 12
+The uppercase and lowercaseletters in the password have been rotated by 13 positions. In order to get the correct password each letter has to be replaced by the letter 13 positions ahead. I read about <b>rot13</b> on net gone through manual pages of <b>tr</b> command. The use of <b>tr</b> command was bit difficult to undersatand so directly after using <b>ls</b> and <b>cat</b> command I tried replacing every letter in the string produced by <b>cat data.txt</b> to a 13 positions ahead letter. It worked as it was the password for the next level.
