@@ -210,3 +210,8 @@ Then I used <b>mv</b> command and changed the extension to <b>.gz</b>. After thi
 
 <br>
 Then I tried to uncompress it using <b> bunzip2 changes</b> which gave this output <b>bunzip2: Can't guess original name for changes -- using changes.out</b>. After this using <b>ls</b> and <b>file</b> commands the output showed that the file is compressed with <b>gzip</b>. I used the <b>.gz</b> extension , unzipped it and ran the <b>file changes command</b> which gave the following output <b>changes: POSIX tar archive (GNU)</b> which means the next compression was done with <b>tar</b>. I used the manual page for it.
+
+![Screenshot (55)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/7b6130a0-3da9-4bfa-874c-672aecc407fc)
+
+<br>
+Using walkthrough playlist I ran the command <b>tar x changes</b> which gave the following output <b>tar: Refusing to read archive contents from terminal (missing -f option?) tar: Error is not recoverable: exiting now</b>. Then I ran <b>tar xf changes</b> and <b>ls</b> commands which gave gave a file named <b>data5.bin</b>. After running <b>file</b> command the output showed that the file was compressed with <b>tar</b>. So, I ran <b>tar xvf data5.bin</b> and <b>ls</b> commands and the output gave a file compressed with <b>bzip2</b>. Then the file was compressed with <b>tar</b> , so I used <b>tar xvf data6.bin.out</b> command which gave a file named <b>data8.bin</b>. Finally, the last layer of compression was done with <b>gzip</b> and after changing the extension and unzipping the file, the output gave <b>data8.bin</b> which has <b>ASCII text</b> and after using <b>cat</b> command the output gave the password for the next level.
