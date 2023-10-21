@@ -223,3 +223,12 @@ Using walkthrough playlist I ran the command <b>tar x changes</b> which gave the
 
 <br>
 Initially, I did some mistakes while typing commands but then I rectified it.
+
+![Screenshot (56)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/13851ad1-72c9-4929-9a5d-9faaec82577f)
+![Screenshot (57)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/a5488110-579f-44c1-ae2d-99509fd75e60)
+![Screenshot (58)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/d2ea128e-6c6a-4077-ada1-bd3cbbe7aadb)
+
+<br>
+username bandit13
+<br>
+password wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
