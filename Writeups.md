@@ -177,3 +177,6 @@ username bandit12
 <br>
 password WIAOOSFzMjXXBC0KoSKBbJ8puQm5lIEi after decrypting JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
 
+## Level 13
+### Level 12 -> Level 13
+This is so far the most difficult level for me as even after going through manual pages, walkthrough playlist and google search, I faced a lot of confusion to clear the level after committing a lot of errors. Uncompressing the files repeatedly was a bit tedious but keeoing manual page and walkthrough playlist handy has a helped alot. First of all as it is mentioned I have to create a directory using <b>mkdir</b> command. So, for this I went through its manual page.
