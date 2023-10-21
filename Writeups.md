@@ -201,3 +201,7 @@ After this I used the <b>file</b> command to know the type of the file. It showe
 <br>
 Then I ran the command <b>gunzip changes</b> , it produced the output <b>gzip: changes: unknown suffix -- ignored</b>, then again I ran the command <b>mv changes changes.gzip</b> with the use of <b>mv</b> and then again <b>gunzip changes.gzip</b> which gave the output <b>gzip: changes.gzip: unknown suffix -- ignored</b>.
 
+![Screenshot (47)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/8fa8e2d4-38c4-4409-8682-12a25d342e30
+
+<br>
+Then I used <b>mv</b> command and changed the extension to <b>.gz</b>. After this I tried to decompress it and used the <b>file</b> command to know the type of file. The file is compressed with <b>bzip2</b>. I read about the <b>bzip</b> command in the manual page.
