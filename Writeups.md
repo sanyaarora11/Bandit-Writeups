@@ -191,3 +191,8 @@ After making directory I copied the <b>data.txt</b> file to the folder using <b>
 <br>
 After this I used <b>cd</b> command to change the working directory. After running <b>cat data.txt</b> command a hexdump file appeared. In order to decypher hexdump of the file I used <b>xxd -reverse data.txt > changes</b>, to reverse the hexdump and save it to a file with name <b>changes</b>.
 
+![Screenshot (48)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/74828f2a-1bdc-4e48-a698-304eede17d20)
+
+<br>
+After this I used the <b>file</b> command to know the type of the file. It showed that the file was <b>gzip</b> compressed. So, I through manual pages of <b>gzip</b> command.
+
