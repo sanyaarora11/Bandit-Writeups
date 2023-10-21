@@ -205,3 +205,8 @@ Then I ran the command <b>gunzip changes</b> , it produced the output <b>gzip: c
 
 <br>
 Then I used <b>mv</b> command and changed the extension to <b>.gz</b>. After this I tried to decompress it and used the <b>file</b> command to know the type of file. The file is compressed with <b>bzip2</b>. I read about the <b>bzip</b> command in the manual page.
+
+![Screenshot (53)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/28e95b20-06f2-4cfa-9a30-17e573ead93e)
+
+<br>
+Then I tried to uncompress it using <b> bunzip2 changes</b> which gave this output <b>bunzip2: Can't guess original name for changes -- using changes.out</b>. After this using <b>ls</b> and <b>file</b> commands the output showed that the file is compressed with <b>gzip</b>. I used the <b>.gz</b> extension , unzipped it and ran the <b>file changes command</b> which gave the following output <b>changes: POSIX tar archive (GNU)</b> which means the next compression was done with <b>tar</b>. I used the manual page for it.
