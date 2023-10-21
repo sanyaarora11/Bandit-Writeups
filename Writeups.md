@@ -167,3 +167,13 @@ password 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 ## Level 12
 ### Level 11 -> Level 12
 The uppercase and lowercaseletters in the password have been rotated by 13 positions. In order to get the correct password each letter has to be replaced by the letter 13 positions ahead. I read about <b>rot13</b> on net gone through manual pages of <b>tr</b> command. The use of <b>tr</b> command was bit difficult to undersatand so directly after using <b>ls</b> and <b>cat</b> command I tried replacing every letter in the string produced by <b>cat data.txt</b> to a 13 positions ahead letter. It worked as it was the password for the next level.
+
+![Screenshot (42)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/2a53c374-5724-4663-a1da-14505c2bb513)
+![Screenshot (43)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/e62dcdf7-c922-4bde-820a-cd3b63f51618)
+![Screenshot (44)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/f5e62d66-42d7-4214-b519-ee481cb45f20)
+
+<br>
+username bandit12
+<br>
+password WIAOOSFzMjXXBC0KoSKBbJ8puQm5lIEi after decrypting JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
+
