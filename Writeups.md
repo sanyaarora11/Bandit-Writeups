@@ -216,3 +216,10 @@ Then I tried to uncompress it using <b> bunzip2 changes</b> which gave this outp
 <br>
 Using walkthrough playlist I ran the command <b>tar x changes</b> which gave the following output <b>tar: Refusing to read archive contents from terminal (missing -f option?) tar: Error is not recoverable: exiting now</b>. Then I ran <b>tar xf changes</b> and <b>ls</b> commands which gave gave a file named <b>data5.bin</b>. After running <b>file</b> command the output showed that the file was compressed with <b>tar</b>. So, I ran <b>tar xvf data5.bin</b> and <b>ls</b> commands and the output gave a file compressed with <b>bzip2</b>. Then the file was compressed with <b>tar</b> , so I used <b>tar xvf data6.bin.out</b> command which gave a file named <b>data8.bin</b>. Finally, the last layer of compression was done with <b>gzip</b> and after changing the extension and unzipping the file, the output gave <b>data8.bin</b> which has <b>ASCII text</b> and after using <b>cat</b> command the output gave the password for the next level.
 
+![Screenshot (49)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/8dc70504-4172-40d6-840b-6206720262ea)
+![Screenshot (50)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/5ce5376a-5cfe-47a2-97e8-d94519f5812d)
+![Screenshot (51)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/63a3e1b1-9256-44c0-9ead-391a76fec0db)
+![Screenshot (54)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/f220ad19-67cc-4abd-9068-d65b5df7d578)
+
+<br>
+Initially, I did some mistakes while typing commands but then I rectified it.
