@@ -196,3 +196,8 @@ After this I used <b>cd</b> command to change the working directory. After runni
 <br>
 After this I used the <b>file</b> command to know the type of the file. It showed that the file was <b>gzip</b> compressed. So, I through manual pages of <b>gzip</b> command.
 
+![Screenshot (52)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/1c70824a-dd08-423e-a28b-4db75362a5aa)
+
+<br>
+Then I ran the command <b>gunzip changes</b> , it produced the output <b>gzip: changes: unknown suffix -- ignored</b>, then again I ran the command <b>mv changes changes.gzip</b> with the use of <b>mv</b> and then again <b>gunzip changes.gzip</b> which gave the output <b>gzip: changes.gzip: unknown suffix -- ignored</b>.
+
