@@ -232,3 +232,7 @@ Initially, I did some mistakes while typing commands but then I rectified it.
 username bandit13
 <br>
 password wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
+
+## Level 14
+### Level 13 -> Level 14
+To clear this level we get a private <b>SSH</b> key that can be used to login into the next level. Initially I used walkthrough playlist to clear this level but it gave an error.
