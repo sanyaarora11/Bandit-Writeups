@@ -1,3 +1,4 @@
+
 # OverTheWire - Bandit - Writeups
 
 ## Level 0
@@ -236,3 +237,8 @@ password wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 ## Level 14
 ### Level 13 -> Level 14
 To clear this level we get a private <b>SSH</b> key that can be used to login into the next level. Initially I used walkthrough playlist to clear this level but it gave an error.
+
+![Screenshot (60)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/7b46da35-5c92-4ca4-aa3d-adc26f719574)
+
+<br>
+The error said that we need to mention a <b>port</b> to login and since port <b>2220</b> has been used so <b>-p 2220</b> command should be used, which my mentor explained to me. Using this I was able to login in the next level.
