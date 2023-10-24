@@ -241,6 +241,10 @@ To clear this level we get a private <b>SSH</b> key that can be used to login in
 ![Screenshot (60)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/7b46da35-5c92-4ca4-aa3d-adc26f719574)
 
 <br>
-The error said that we need to mention a <b>port</b> to login and since port <b>2220</b> has been used so <b>-p 2220</b> command should be used, which my mentor explained to me. Using this I was able to login in the next level.
+The error said that we need to mention a <b>port</b> to login and since port <b>2220</b> has been used so <b>-p 2220</b> command should be used, about which my mentor explained to me. Using this I was able to login in the next level.
 
 ![Screenshot (61)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/243d4dc7-2c9e-40ec-b21e-eb852c7bd640)
+
+## Level 15
+### Level 14 -> Level 15
+I used the <b>ls</b> command to see the files.
