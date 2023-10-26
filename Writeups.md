@@ -252,3 +252,9 @@ command and after entering password given for level 14, it gave the password for
 
 ![Screenshot (62)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/e95ae9b6-02fa-4042-8f3e-06a85f50b584)
 ![Screenshot (63)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/a6f37be6-250e-4037-ae4e-2da8032a9613)
+
+<br>
+password for level 14 fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
+
+username bandit15
+password jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
