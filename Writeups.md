@@ -249,3 +249,6 @@ The error said that we need to mention a <b>port</b> to login and since port <b>
 ### Level 14 -> Level 15
 I used the hint that gave the password for level 14 and using <b>nc</b> command and reading the file. I ran <b>cat /etc/bandit_pass/</b>
 command and after entering password given for level 14, it gave the password for the next level. The hint was to use password for level 14 to get password for level 15, for which I took help from walkthrough playlist to see how it is used. 
+
+![Screenshot (62)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/e95ae9b6-02fa-4042-8f3e-06a85f50b584)
+![Screenshot (63)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/a6f37be6-250e-4037-ae4e-2da8032a9613)
