@@ -268,4 +268,9 @@ I used the manual pages of <b>openssh</b> command. Then I searched how to get co
 ![Screenshot (71)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/f7f8f0b7-f9b0-42f4-b3b9-165d7a808c9d)
 
 <br>
-I tried the same thing again but this time I used <b>cat</b> command as well to read the file, as was mentioned in walkthrough playlist. Then the hint given is to be used <b>Read R Blocl</b> and for this we have to use <b>-ign_eof</b> command, which says to ignore the input eof(end of file), to indicate the end of input. Them I got the password for the next level.
+I tried the same thing again but this time I used <b>cat</b> command as well to read the file, as was mentioned in walkthrough playlist.
+
+![Screenshot (68)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/9337fa2a-6ded-49b4-805a-f39b091c66fe)
+
+<br>
+Then the hint given is to be used <b>Read R Blocl</b> and for this we have to use <b>-ign_eof</b> command, which says to ignore the input eof(end of file), to indicate the end of input. Them I got the password for the next level.
