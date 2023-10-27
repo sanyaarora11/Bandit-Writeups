@@ -278,7 +278,7 @@ Then the hint given is to be used <b>Read R Blocl</b> and for this we have to us
 ![Screenshot (69)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/91bbbd1b-7c0d-4c77-b27f-b051faef52d9)
 
 <br>
-Them I got the password for the next level.
+Then I got the password for the next level.
 
 ![Screenshot (70)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/d75beb2a-3ff3-4709-90b1-fb27107856d1)
 
