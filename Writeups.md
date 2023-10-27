@@ -262,4 +262,10 @@ password jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
 
 ## Level 16 
 ### Level 15 -> Level 16
-I used the manual pages of <b>openssh</b> command. Then I searched how to get connected to openssl on google and the command used for this is <b>openssl s_client -connect</b> with hostname and port. I tried the same thing again but this time I used <b>cat</b> command as well to read the file, as was mentioned in walkthrough playlist. Then the hint given is to be used <b>Read R Blocl</b> and for this we have to use <b>-ign_eof</b> command, which says to ignore the input eof(end of file), to indicate the end of input. Them I got the password for the next level.
+I used the manual pages of <b>openssh</b> command. Then I searched how to get connected to openssl on google and the command used for this is <b>openssl s_client -connect</b> with hostname and port.
+
+![Screenshot (67)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/f94d65b6-c564-48ec-899e-a61084719e56)
+![Screenshot (71)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/f7f8f0b7-f9b0-42f4-b3b9-165d7a808c9d)
+
+<br>
+I tried the same thing again but this time I used <b>cat</b> command as well to read the file, as was mentioned in walkthrough playlist. Then the hint given is to be used <b>Read R Blocl</b> and for this we have to use <b>-ign_eof</b> command, which says to ignore the input eof(end of file), to indicate the end of input. Them I got the password for the next level.
