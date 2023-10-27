@@ -273,4 +273,9 @@ I tried the same thing again but this time I used <b>cat</b> command as well to 
 ![Screenshot (68)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/9337fa2a-6ded-49b4-805a-f39b091c66fe)
 
 <br>
-Then the hint given is to be used <b>Read R Blocl</b> and for this we have to use <b>-ign_eof</b> command, which says to ignore the input eof(end of file), to indicate the end of input. Them I got the password for the next level.
+Then the hint given is to be used <b>Read R Blocl</b> and for this we have to use <b>-ign_eof</b> command, which says to ignore the input eof(end of file), to indicate the end of input.
+
+![Screenshot (69)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/91bbbd1b-7c0d-4c77-b27f-b051faef52d9)
+
+<br>
+Them I got the password for the next level.
