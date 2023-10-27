@@ -259,3 +259,7 @@ password for level 14 fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
 username bandit15
 <br>
 password jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
+
+## Level 16 
+### Level 15 -> Level 16
+I used the manual pages of <b>openssh</b> command. Then I searched how to get connected to openssl on google and the command used for this is <b>openssl s_client -connect</b> with hostname and port. I tried the same thing again but this time I used <b>cat</b> command as well to read the file, as was mentioned in walkthrough playlist. Then the hint given is to be used <b>Read R Blocl</b> and for this we have to use <b>-ign_eof</b> command, which says to ignore the input eof(end of file), to indicate the end of input. Them I got the password for the next level.
