@@ -283,4 +283,5 @@ Them I got the password for the next level.
 ![Screenshot (70)](https://github.com/sanyaarora11/Bandit-Writeups/assets/147926344/d75beb2a-3ff3-4709-90b1-fb27107856d1)
 
 username bandit16
+<br>
 password JQttfApK4SeyHwDlI9SXGR50qclOAil1
